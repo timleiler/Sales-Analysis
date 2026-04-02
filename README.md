@@ -3,9 +3,9 @@ I clean the data, explore it, identify problems and will visualize key messages.
 
 <br>
 
-## Results
 
-### Data Loading
+
+## Data Loading and Exploring
 Here I have a first look at the data. To get a first impressive of the data set I use the .shape .head() .describe() and .info() methods.
 
 <br>
@@ -22,7 +22,7 @@ Now we got a first impression about our data.
 <br>
 <br>
 
-### Data cleaning
+## Data cleaning
 
 |  |  |
 | :---: | :---: |
@@ -36,13 +36,17 @@ This is the result. Clean data, without any dublicates and missing data is repla
 <br>
 <br>
 
-### Exploratory Data Analysis
+# Analysis and Visualization
 
-### Problem identification
+### Revenue Sales
 
-### Visualization
+### Refund and Quality
+
+### Traffic and Conversion
+
+### Customer and Behaviour
 
 
-### Key messages
+# Key Findings
 
 
